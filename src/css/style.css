@@ -1,0 +1,59 @@
+:root {
+    --bg-body: rgb(99, 56, 240);
+    --wrapper-bg: white;
+    --menu-bg: #f1f1f1;
+    --header-bg: rgb(5, 108, 108);
+    --content-bg: aquamarine;
+    --footer-bg: aqua;
+}
+
+html, body {
+    margin: 0;
+}
+
+body {
+    background-color: var(--bg-body);
+    display: flex;
+    justify-content: center;
+}
+
+table {
+    background-color: var(--menu-bg);
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid black;
+    text-align: center;
+}
+
+.wrapper {
+    width: 1200px;
+    display: flex;
+    margin: 0 auto;
+    background-color: var(--wrapper-bg);
+}
+.main {
+    display: flex;
+    flex-flow: column;
+    width: 85%;
+}
+.menu {
+    width: 15%;
+    background-color: var(--menu-bg);
+    padding: 10px 20px 0px;
+}
+.header {
+    background-color: var(--header-bg);
+    min-height: 150px;
+}
+.content {
+    background-color: var(--content-bg);
+    min-height: 300px;
+    padding: 20px;
+}
+.footer {
+    background-color: var(--footer-bg);
+    min-height: 150px;
+}
