@@ -17,11 +17,9 @@ O site apresenta informações sobre a clínica, horários de atendimento, conta
 │   │   ├── sobre.html       # Página "Sobre a Clínica"
 │   │   ├── horarios.html    # Página de horários
 │   │   └── contato.html     # Página de contato com formulário
-│   ├── /css
-│   │   ├── style.css        # Estilos principais
-│   │   └── responsive.css   # Estilos para responsividade (opcional)
-│   └── /js
-│       └── index.js         # Scripts JavaScript (se houver)
+│   └── /css
+│       ├── style.css        # Estilos principais
+│       └── responsive.css   # Estilos para responsividade (opcional)
 └── README.md
 ```
 
