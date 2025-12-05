@@ -18,8 +18,7 @@ O site apresenta informações sobre a clínica, horários de atendimento, conta
 │   │   ├── horarios.html    # Página de horários
 │   │   └── contato.html     # Página de contato com formulário
 │   └── /css
-│       ├── style.css        # Estilos principais
-│       └── responsive.css   # Estilos para responsividade (opcional)
+│       └── style.css        # Estilos principais
 └── README.md
 ```
 
@@ -55,3 +54,7 @@ O site apresenta informações sobre a clínica, horários de atendimento, conta
 - Todas as imagens utilizadas são provenientes de URLs externas (Unsplash).
 - Formulário de contato é apenas ilustrativo e não envia mensagens de fato.
 - Recomendado abrir o projeto em um servidor local para testes completos de navegação.
+
+---
+
+👉 [Veja o projeto online](https://andre363-br765.github.io/template-clinica/)
