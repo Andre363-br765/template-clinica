@@ -46,7 +46,6 @@ O site apresenta informações sobre a clínica, horários de atendimento, conta
 ## Tecnologias Utilizadas
 - HTML5
 - CSS3
-- JavaScript (opcional)
 
 ---
 
